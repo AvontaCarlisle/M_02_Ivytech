@@ -1,6 +1,6 @@
 
 
-counter = 3
+counter = 5
 
 while counter > 0 :
     # ask frist name
